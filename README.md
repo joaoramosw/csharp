@@ -260,8 +260,3 @@ dotnet run
 ## 👨‍💻 Autor
 
 João Victor Ramos
-Desenvolvedor de Software
-
----
-
-⭐ Repositório em constante evolução conforme avanço nos estudos.
