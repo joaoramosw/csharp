@@ -25,7 +25,7 @@ Consolidar conhecimentos essenciais para atuar como desenvolvedor .NET Fullstack
 
 ### 🔴 ESSENCIAL — Sem isso não passa
 
-* Fundamentos de POO
+* Fundamentos de POO 
 * Injeção de Dependência (DI)
 * EF Core (ORM)
 * Minimal APIs
